@@ -1,0 +1,1 @@
+For my Object-Oriented Programming (OOP) course, this project involved modeling and designing an existing website. I chose Goodreads as my inspiration. The goal was to replicate its structure and functionality, demonstrating my understanding of OOP principles through practical application and assessment.
